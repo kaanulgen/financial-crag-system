@@ -1,4 +1,4 @@
-# Finansal Veriler İçin CRAG Tabanlı Soru-Cevap Sistemi
+# Finansal Veriler için CRAG Tabanlı Soru-Cevap Sistemi
 
 CRAG (Corrective Retrieval-Augmented Generation) mimarisi, özellikle hatalı veya eksik geri getirme süreçlerinde RAG tabanlı sistemlerin nasıl zorlandığını göstermesi açısından önemli bir yaklaşım. RAG modellerinde retrieval aşaması hatalı olduğunda, llm yanlış veya yanıltıcı bilgilerle beslendiği için halüsinasyon üretme riski ciddi şekilde artıyor. CRAG ise bu sorunu, RAG’ın üzerine düzeltici bir katman ekleyerek çözüyor.
 
