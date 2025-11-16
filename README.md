@@ -8,7 +8,7 @@ CRAG’in merkezinde retrieval evaluator bulunuyor. Bu bileşen, getirilen belge
 - incorrect: Belgeler yetersiz veya alakasız
 
 
-Bu projede, finansal veriler için çalışan basit bir CRAG uygulaması geliştirdim. Amaç, hem yerel finansal verileri (yahoo finance) hem de gerektiğinde web’den gelen güncel haberleri kullanarak daha güvenilir cevaplar üretebilen bir yapı kurmaktı.
+Bu projede, hisse senedi verileri için çalışan basit bir CRAG uygulaması geliştirdim. Amaç, finansal analizlerde kullanılabilecek, halüsinasyon riskini azaltan, gerektiğinde düzeltici adımlar uygulayabilen bir soru-cevap sistemi oluşturmak.
 
 Yapı iki ana dosyadan oluşuyor:
 - financial_crag.py → Sistemin çekirdeği (veri toplama + CRAG iş akışı)
