@@ -18,7 +18,7 @@ Yapı iki ana dosyadan oluşuyor:
 
 ## Genel Bakış
 
-Sistem şu akışı takip eder:
+Sistem şu akışı takip ediyor:
 
 1. **setup TICKER** komutu ile hisse verileri toplanır (**setup AAPL**)
 2. Toplanan veriler embed edilip Chroma veritabanına eklenir
